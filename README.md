@@ -26,4 +26,5 @@
    - Free RAM
    - Live usage updates
    - ~~ascii art (per distro)~~ Coming in later update
-   - And more! 
+   - Code optimization
+   - And more!
