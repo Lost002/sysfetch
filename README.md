@@ -20,11 +20,11 @@
 
 # Beta 0.2 Estimated release date and information.
 1. Release Date (Estimate)
-   - Estimated to release Sat. Oct. 7th 2023
+   - Estimated to release Sat. Oct. 7th 2023.
 2. Information
-   - Better Color/User color choice
-   - Free RAM
-   - Live usage updates
-   - ~~ascii art (per distro)~~ Coming in later update
-   - Code optimization
+   - Better Color/User color choice.
+   - Display Free/available RAM.
+   - Live system resource usage updates.
+   - ~~ascii art (per distro)~~ Coming in later update.
+   - Code optimization.
    - And more!
