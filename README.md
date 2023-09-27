@@ -6,4 +6,4 @@ A **bash** neofetch alternative with live system resorce usage.
 ## Dependencies
 - Python3
 - Bash
-- psutil (Should already be installed with python 3) (If not pip(3) install psutil)
+- psutil (Should already be installed with python 3) (If not ```pip(3) install psutil```)
