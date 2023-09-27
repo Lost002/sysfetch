@@ -17,3 +17,13 @@
     - run the sysfetch main.py file (**e.g.** On a normal git clone: python3 /sysfetch/src/main.py)
 ## Fixing make.sh gone wrong
 ```sudo rm -rf /usr/bin/SysFetch/```
+
+# Beta 0.2 Estimated release date and information.
+1. Release Date (Estimate)
+   - Estimated to release Sat. Oct. 7th 2023
+2. Information
+   - Better Color/User color choice
+   - Free RAM
+   - Live usage updates
+   - ~~ascii art (per distro)~~ Coming in later update
+   - And more! 
