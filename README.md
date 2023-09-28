@@ -10,7 +10,7 @@
 
 ## Beta 0.1 Usage
 1. 
-    - sudo ./make.sh (from the prjects make directory)
+    - source make.sh (from the prjects make directory)
         - The above should alias ```sysfetch``` to ```python3 /usr/bin/SysFetch/main.py```
     - Then, Just run ```sysfetch```!
 2.  
