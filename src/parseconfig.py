@@ -20,7 +20,7 @@ class getcolor:
         "red": "41",
         "green": "42",
         "yellow": "43",
-        "blue":"44",
+        "blue": "44",
         "magenta": "45",
         "cyan": "46",
         "white": "47",

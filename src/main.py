@@ -31,10 +31,10 @@ class main:
             self.TOP_BOTTOM += "-"
 
         self.TOP_BOTTOM += getcolor.reset+"\n"
-        self.OS_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset #\033[31m |\033[0m"
-        self.TOTAL_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset #\033[31m |\033[0m"
-        self.PERCENT_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset #\033[31m |\033[0m
-        self.IN_USE_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset #"\033[31m |\033[0m"
+        self.OS_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset
+        self.TOTAL_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset
+        self.PERCENT_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset
+        self.IN_USE_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset
         self.FREE_SEPERATE += getcolor.fg_color_border + " |" + getcolor.reset
         self.fetch = f"{self.TOP_BOTTOM}{self.FIRST_CHAR}{self.textcolorfg}{os}{getcolor.reset}{self.OS_SEPERATE}{self.SEPERATOR}{self.textcolorfg}{total}{getcolor.reset}{self.TOTAL_SEPERATE}{self.SEPERATOR}{self.textcolorfg}{percent}{getcolor.reset}{self.PERCENT_SEPERATE}{self.SEPERATOR}{self.textcolorfg}{in_use}{getcolor.reset}{self.IN_USE_SEPERATE}{self.SEPERATOR}{self.textcolorfg}{free}{getcolor.reset}{self.FREE_SEPERATE}\n{self.TOP_BOTTOM}"
     
