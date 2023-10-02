@@ -23,8 +23,8 @@
    - Estimated to release Sat. Oct. 7th 2023.
 2. Information
    - Better Color/User color choice.
-   - Display Free/available RAM.
-   - Live system resource usage updates.
+   - - [x] Display Free/available RAM.
+   - ~~Live system resource usage updates.~~ !!REMOVED!!
    - ~~ascii art (per distro)~~ Coming in later update.
    - Code optimization.
    - And more!

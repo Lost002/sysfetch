@@ -1,5 +1,5 @@
 from os import popen
-from parseconfig import getcolor
+#from parseconfig import getcolor
 import psutil
 from sys import argv
 
