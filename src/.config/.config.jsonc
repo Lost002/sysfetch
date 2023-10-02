@@ -1,8 +1,8 @@
 {
-    "fg-color-border": "Red",
-    "fg-color-text": "White",
+    "fg-color-border": "red",
+    "fg-color-text": "white",
     "bg-color-border": "0",
     "bg-color-text": "0",
     
-    "_comment": "Choose from Black, Red, Green, Yellow, Blue, Magenta, Cyan, White ('0' is none, '1' can also be and alternative to White)"
+    "_comment": "Choose from black, red, green, yellow, blue, magenta, cyan, white ('0' is none, '1' can also be an alternative to White) (USE ALL LOWERCASE!!!!)"
 }
