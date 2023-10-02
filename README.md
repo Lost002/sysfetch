@@ -28,3 +28,5 @@
    - ~~ascii art (per distro)~~ Coming in later update.
    - Code optimization.
    - And more!
+
+# !!WARNING!!: DO NOT USE BETA0.2 YET
