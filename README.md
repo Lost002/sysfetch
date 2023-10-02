@@ -29,4 +29,4 @@
    - Code optimization.
    - And more!
 
-# !!WARNING!!: DO NOT USE BETA0.2 YET
+# !!WARNING!!: DO NOT USE BETA0.2, VERY UNSTABLE
