@@ -1,5 +1,5 @@
 # sysfetch
-#### A **bash** neofetch alternative with live system resorce usage.
+#### A **bash** neofetch alternative ~~with live system resorce usage.~~ DEPRECATED LIVE USAGE (May be added in/after release 2.0)
 
 ### !!For linux systems!!
 
