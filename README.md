@@ -22,7 +22,7 @@
 1. Release Date (Estimate)
    - Estimated to release Sat. Oct. 7th 2023.
 2. Information
-   - Better Color/User color choice.
+   - - [x] Better Color/User color choice.
    - - [x] Display Free/available RAM.
    - ~~Live system resource usage updates.~~ !!REMOVED!!
    - ~~ascii art (per distro)~~ Coming in later update.
