@@ -10,7 +10,8 @@ class getcolor:
         "blue": "34",
         "magenta": "35",
         "cyan": "36",
-        "white": "37",
+        "grey": "37",
+        "white": "0",
         "0": "0",
         "1": "1"
     }

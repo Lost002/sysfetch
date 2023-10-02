@@ -1,0 +1,1 @@
+"_comment: How does this work?": "text color and background color CAN NOT mix, Please try to set relative color/border to 0 (e.g.: If you set fg-text-color to green, set bg-text-color to 0...) If you do not do this one of them will get overwritten."
