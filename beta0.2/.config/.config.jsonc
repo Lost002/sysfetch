@@ -1,0 +1,11 @@
+{
+    "fg-color-border": "red",
+    "fg-color-text": "0",
+
+    "_start-comment !!PLEASE DO NOT USE YET (!!NOTHING WILL CHANGE!!)!!": "",
+        "bg-color-border": "0",
+        "bg-color-text": "0",
+    "_end-comment": "",
+
+    "_comment": "Choose from black, red, green, yellow, blue, magenta, cyan, white, grey ('0' is none (So usually will show as white), '1' can also be an alternative to White) (USE ALL LOWERCASE!!!!)"
+}

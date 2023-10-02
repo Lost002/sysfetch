@@ -1,0 +1,2 @@
+sudo mkdir /usr/bin/SysFetch && sudo mkdir /usr/bin/SysFetch/python && sudo cp ../python/main.py /usr/bin/SysFetch/python && sudo cp ../python/parseconfig.py /usr/bin/SysFetch/python && sudo cp -rf ../.config /usr/bin/SysFetch && sudo cp ../.config/.config.jsonc /usr/bin/SysFetch/.config
+sudo echo "alias sysfetch='python3 /usr/bin/SysFetch/python/main.py'" >> ~/.bashrc
