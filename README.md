@@ -6,7 +6,7 @@
 ## Dependencies
 - Python3
 - Bash
-- psutil (Should already be installed with python 3) (If not ```pip(3) install psutil```)
+- psutil (Should already be installed with python3) (If not ```pip(3) install psutil```)
 
 ## Beta 0.2 Usage
 1. 
