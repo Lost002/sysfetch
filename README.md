@@ -17,3 +17,10 @@
 2. To change color go to sysfetch/beta0.2/.config/.config.jsonc and change the fg-color-[test/border] then re-make the project after running ```sudo rm -rf /usr/bin/SysFetch``` OR edit /usr/bin/SysFetch/.config/.config.jsonc (No re-make or restart required!)
 ## Fixing make.sh gone wrong
 ```sudo rm -rf /usr/bin/SysFetch/```
+
+## Introducing official release 1.0!
+1. What to expect:
+    - Distro ASCII images
+    - Code optimization
+2. Estimated release date:
+    - Wed. Oct. 11
